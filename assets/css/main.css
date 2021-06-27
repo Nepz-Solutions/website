@@ -6,6 +6,19 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+.profilePhotoCls {
+	border:2px solid #fff;
+	background: url(img/tiger.png) no-repeat;
+	box-shadow: 10px 10px 5px #ccc;
+	-moz-box-shadow: 10px 10px 5px #ccc;
+	-webkit-box-shadow: 10px 10px 5px #ccc;
+	-khtml-box-shadow: 10px 10px 5px #ccc;
+}
+
+.maskCls {
+	opacity: 0.2;
+}
+
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
